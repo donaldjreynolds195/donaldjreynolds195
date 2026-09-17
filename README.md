@@ -6,7 +6,7 @@
 
 **Analyze the Data. Remove the Friction. Deliver the Value.**
 
-<img src="https://img.shields.io/badge/Retired%20U.S.%20Air%20Force-Senior%20Enlisted%20Leader-0A3161?style=for-the-badge" alt="Retired U.S. Air Force Senior Enlisted Leader" />
+<img src="https://img.shields.io/badge/U.S.%20Air%20Force-Senior%20Enlisted%20Leader-0A3161?style=for-the-badge" alt="U.S. Air Force Senior Enlisted Leader" />
 <img src="https://img.shields.io/badge/MBA-UVA%20Darden-232D4B?style=for-the-badge" alt="MBA UVA Darden" />
 <img src="https://img.shields.io/badge/PMP-Certified-005A9C?style=for-the-badge" alt="PMP Certified" />
 <img src="https://img.shields.io/badge/MSSA-Cloud%20%26%20Server%20Administration-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Software and Systems Academy" />
