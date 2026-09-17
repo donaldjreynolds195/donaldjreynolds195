@@ -92,7 +92,7 @@ My background combines enterprise leadership with hands-on technical development
 
 | Project | Strategic Focus | Access |
 |---|---|---|
-| **Project Mutual Fit / Mutual Career Fit Platform** | Cloud, AI, FinOps, governance, career intelligence, evidence traceability, reciprocal fit, transferable skill normalization, resume intelligence, and human review | 🔒 Private |
+| **Project Mutual Fit (PMF) / Mutual Career Fit Platform** | Cloud, AI, FinOps, governance, career intelligence, evidence traceability, reciprocal fit, cross-domain experience translation, resume intelligence, and human review | 🔒 Private |
 | **PMF Quantum Decision Lab** | Scenario and optimization sandbox with 256-combination explorers, editable assumptions, classical optimization, and simulated quantum workflows | 🔒 Private |
 | **NEXUS Decision Twin** | Hybrid-cloud decision product using seeded Monte Carlo analysis, FinOps, TBM, service constraints, and risk-adjusted decision logic | 🔒 Private |
 | **Opportunity Nexus** | Career intelligence demo combining resume evidence, employer discovery, public-web job search, AI-assisted ranking, and Excel export | 🔒 Private |
@@ -119,7 +119,7 @@ My background combines enterprise leadership with hands-on technical development
 
 ---
 
-## Project Mutual Fit
+## Project Mutual Fit (PMF)
 
 ### Cloud, AI, FinOps, Governance & Career Intelligence Platform
 
@@ -127,43 +127,216 @@ My background combines enterprise leadership with hands-on technical development
 
 **Independent Portfolio Project · 2026**
 
-Project Mutual Fit is the centerpiece of my current portfolio. It is designed as a multi-layer decision-support platform serving two personas, candidates and recruiters, while keeping evidence, unknowns, governance, and human review visible throughout the workflow.
+Project Mutual Fit (PMF) is the centerpiece of my current portfolio. It is designed as a multi-layer career decision-support platform that helps candidates and recruiters understand not only whether experience appears to match an opportunity, but why it matches, what may be getting lost in translation, what evidence is missing, and what could change the decision.
 
-### Architecture & Product Design
+### Project Mutual Fit (PMF) Architecture & Product Design
 
-- Architected a 14-layer cloud and AI decision platform integrating document parsing, personalized career evidence normalization, military-to-civilian terminology translation, deterministic matching, resume parsing compatibility tests, market intelligence, application viability, governance, and separate candidate and recruiter experiences.
+- Architected a 14-layer cloud and AI decision platform integrating document parsing, personalized career evidence normalization, cross-domain experience translation, deterministic matching, resume parsing compatibility tests, market intelligence, application viability, governance, and separate candidate and recruiter experiences.
 - Designed end-to-end cloud and AI architecture across candidate and recruiter workflows, including deterministic matching, evidence provenance, consent and audit controls, staged intelligence services, and modular implementation guides to preserve traceability and reduce compounding technical and governance risk.
 - Designed a cross-cutting **FinOps & Technology Value Control Plane** spanning the PMF architecture, combining Infrastructure as Code patterns, workload-health telemetry, FinOps as a Service concepts, and showback and chargeback-ready cost allocation while keeping platform economics separate from candidate-matching logic.
 - Extended the architecture to a multi-cloud cost model using **Azure Cost Management** and **AWS Cost and Usage Reports**, with **FOCUS-normalized** cost data to support forecasting, allocation, cost transparency, and unit-economics analysis.
 
-### Decision Model
+### Project Mutual Fit (PMF) Military & Technical Experience Intelligence
+
+> **The objective is not word replacement. It is evidence translation across professional languages.**
+
+For veterans and military-connected candidates, valuable experience can be buried inside military terminology, organizational structures, mission language, specialty codes, additional duties, leadership responsibilities, and accomplishments that do not translate cleanly into civilian recruiting language.
+
+The language problem also works in the opposite direction. Civilian and technical job descriptions may describe work a veteran has already performed, but use terminology that never appears in the veteran's resume, performance reports, specialty description, or military job title.
+
+PMF is being designed to bridge both sides of that gap:
+
+- **Military to civilian:** Interpret documented military experience and identify civilian-relevant ways of expressing supported responsibilities, capabilities, technologies, leadership, scope, and outcomes.
+- **Civilian and technical to military:** Interpret civilian, business, and technical terminology and examine whether the underlying activity may correspond to experience documented in the veteran's record.
+- **Where the two meet:** Look beyond terminology to determine whether both sides may be describing the same underlying capability, responsibility, technology, task, or outcome.
 
 ```text
-Candidate Evidence
-      │
-      ├── Employer Fit
-      │
-Job Opportunity
-      │
-      ├── Candidate Job Fit
-      │
-Company Context
-      │
-      ├── Company Fit
-      │
-      └── Mutual Fit
-             │
-             ├── Evidence
-             ├── Strengths
-             ├── Gaps
-             ├── Unknowns
-             ├── Recommendations
-             └── Human Review
+             MILITARY EXPERIENCE
+                     │
+                     ▼
+           Mission terminology
+           Specialty language
+           Additional duties
+           Leadership experience
+           Systems and operations
+                     │
+                     ▼
+       CROSS-DOMAIN EXPERIENCE INTELLIGENCE
+                     ▲
+                     │
+           Technical terminology
+           Business terminology
+           Job requirements
+           Civilian role language
+           Employer expectations
+                     ▲
+                     │
+              CIVILIAN / IT WORLD
 ```
 
-The design emphasizes evidence-linked recommendations, explicit handling of unknown information, candidate-controlled corrections, transferable skill translation without inventing experience, separate fit dimensions, resume claim validation, scenario analysis, controlled learning, and human review before consequential decisions.
+The presence of similar words does not automatically establish a match. PMF is intended to examine the **evidence behind the words**.
 
-The goal is not to automate hiring decisions. The goal is to make career decisions more understandable, evidence-aware, and useful to both sides.
+### Why Occupation-Level Crosswalks Can Miss the Individual
+
+Military occupation translators and Military Occupational Specialty (MOS) or Air Force Specialty Code (AFSC) crosswalks can be useful starting points, but occupation-level mappings can miss an important reality:
+
+> **A military specialty is not the complete record of what a person actually did.**
+
+Two service members can hold the same MOS, AFSC, rating, or specialty code and accumulate substantially different experience because of assignment, unit, mission, duty position, deployment, rank, special projects, additional duties, systems supported, supervisory responsibility, and organizational level.
+
+A generic crosswalk often starts with something similar to:
+
+```text
+MOS / AFSC
+     ↓
+Generic Military Occupation
+     ↓
+Closest Civilian Occupations
+```
+
+PMF is intended to start with the **individual evidence** rather than treating the occupational code as the boundary of the person's experience.
+
+### The Leadership Visibility Gap
+
+A specialty code may identify someone primarily by a technical or functional occupation, while years of supervisory, managerial, program, or people-leadership experience remain less visible.
+
+The same person may also have operated as a:
+
+`Supervisor` · `Team Leader` · `Operations Manager` · `Program Manager` · `Project Lead` · `Trainer` · `Evaluator` · `Resource Manager` · `Risk Manager` · `Workforce Planner` · `Section Chief` · `Flight Chief` · `Senior Enlisted Leader`
+
+PMF is designed to look for supported leadership and management evidence without automatically inflating military titles into civilian seniority equivalents.
+
+### The Reverse Translation Problem
+
+An IT job description might ask for:
+
+```text
+Identity Lifecycle Management
+Access Provisioning
+Role Based Access Control
+Directory Administration
+Infrastructure Monitoring
+Incident Response
+Change Management
+Service Availability
+```
+
+A veteran's record might instead reference:
+
+```text
+User account management
+Network permissions
+System access controls
+Directory services
+Mission system administration
+Readiness monitoring
+Troubleshooting
+Operational response
+Configuration control
+```
+
+A keyword comparison may treat several requirements as absent. PMF instead asks whether the candidate and employer may be describing related work using different professional languages, and what evidence would be required to establish that relationship.
+
+### Project Mutual Fit (PMF) Decision Model
+
+```text
+                    PROJECT MUTUAL FIT (PMF)
+
+                       Candidate Evidence
+                              │
+                              ▼
+                 Cross-Domain Experience Intelligence
+                              │
+             ┌────────────────┼────────────────┐
+             ▼                ▼                ▼
+        Military Context   Civilian / IT    Missing Context
+        & Terminology      Terminology      & Unknowns
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                   Evidence Relationship Review
+                              │
+                   ┌──────────┼──────────┐
+                   ▼          ▼          ▼
+                Direct      Possible    Unsupported
+                Alignment   Alignment   Alignment
+                   │          │          │
+                   └──────────┼──────────┘
+                              ▼
+                      Civilian Evidence Profile
+                              │
+             ┌────────────────┼────────────────┐
+             ▼                ▼                ▼
+        Employer Fit    Candidate Job Fit   Company Fit
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                          Mutual Fit
+                              │
+               ┌──────────────┼──────────────┐
+               ▼              ▼              ▼
+            Evidence       Opportunity     Next Actions
+            Strengths      Intelligence    & Questions
+            Gaps
+                              │
+                              ▼
+                         Human Review
+```
+
+### What PMF Is Intended to Reveal
+
+| Question | PMF Intent |
+|---|---|
+| **What did this veteran actually do?** | Examine individual responsibilities, accomplishments, systems, leadership, scope, and mission context rather than relying only on a specialty code. |
+| **What experience exists outside the MOS or AFSC description?** | Surface additional duties, supervisory responsibilities, projects, program ownership, technical work, and leadership evidence. |
+| **What does the employer's terminology actually mean?** | Interpret the activity behind civilian, business, and technical terminology rather than relying solely on keywords. |
+| **Could both sides be describing related work?** | Identify evidence-supported relationships between military experience and civilian requirements. |
+| **Is this a language gap or a real experience gap?** | Separate terminology problems from missing documentation, limited experience, and actual qualification gaps. |
+| **What does the evidence not prove?** | Keep unsupported seniority, metrics, technologies, credentials, ownership, and scope unresolved. |
+| **What information should be requested next?** | Generate targeted questions that could confirm, weaken, or change a proposed match. |
+| **How should the experience be communicated?** | Help express supported experience in terminology appropriate for the target opportunity without inventing accomplishments. |
+
+### The Difference
+
+A traditional occupation crosswalk might ask:
+
+> **What civilian occupation corresponds to this MOS or AFSC?**
+
+PMF is intended to ask:
+
+> **What did this individual actually do, what capabilities are supported by the evidence, how does the employer describe comparable work, what connections can be established, and what remains unknown?**
+
+That distinction allows PMF to separate several different problems:
+
+- **Language Gap:** The experience exists, but the candidate and employer describe it differently.
+- **Documentation Gap:** The candidate may have the experience, but the available evidence is insufficient.
+- **Leadership Visibility Gap:** The technical specialty is visible, but supervisory, managerial, program, or people-leadership responsibilities are not.
+- **Experience Gap:** The required capability is not demonstrated by the available evidence.
+- **Qualification Gap:** A required certification, clearance, degree, license, or other qualification remains unmet.
+
+### Two Principles Behind the Design
+
+> **A missing keyword is not necessarily a missing skill.**
+
+At the same time:
+
+> **A matching keyword is not necessarily proof of experience.**
+
+When the available evidence cannot support a conclusion:
+
+> **Missing evidence becomes a question, not an invented fact.**
+
+### The Larger Project Mutual Fit (PMF) Vision
+
+Project Mutual Fit (PMF) combines individual career evidence, cross-domain experience translation, cloud architecture, AI-assisted interpretation, deterministic matching, market intelligence, governance, risk controls, FinOps, and decision analytics into one controlled career intelligence environment.
+
+The platform is being designed around a simple principle:
+
+> **Make the invisible visible without inventing what is not known.**
+
+The public portfolio communicates the capability and intended outcome. The underlying translation taxonomy, occupational mappings, evidence architecture, classification rules, source strategy, scoring methods, model prompts, confidence logic, and implementation design remain private.
+
+**Private source repository · Synthetic demonstration environment · Selective technical review available**
 
 ---
 
