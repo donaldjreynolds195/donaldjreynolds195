@@ -129,13 +129,6 @@ My background combines enterprise leadership with hands-on technical development
 
 Project Mutual Fit (PMF) is the centerpiece of my current portfolio. It is designed as a multi-layer career decision-support platform that helps candidates and recruiters understand not only whether experience appears to match an opportunity, but why it matches, what may be getting lost in translation, what evidence is missing, and what could change the decision.
 
-### Project Mutual Fit (PMF) Architecture & Product Design
-
-- Architected a 14-layer cloud and AI decision platform integrating document parsing, personalized career evidence normalization, cross-domain experience translation, deterministic matching, resume parsing compatibility tests, market intelligence, application viability, governance, and separate candidate and recruiter experiences.
-- Designed end-to-end cloud and AI architecture across candidate and recruiter workflows, including deterministic matching, evidence provenance, consent and audit controls, staged intelligence services, and modular implementation guides to preserve traceability and reduce compounding technical and governance risk.
-- Designed a cross-cutting **FinOps & Technology Value Control Plane** spanning the PMF architecture, combining Infrastructure as Code patterns, workload-health telemetry, FinOps as a Service concepts, and showback and chargeback-ready cost allocation while keeping platform economics separate from candidate-matching logic.
-- Extended the architecture to a multi-cloud cost model using **Azure Cost Management** and **AWS Cost and Usage Reports**, with **FOCUS-normalized** cost data to support forecasting, allocation, cost transparency, and unit-economics analysis.
-
 ### Project Mutual Fit (PMF) Military & Technical Experience Intelligence
 
 > **The objective is not word replacement. It is evidence translation across professional languages.**
