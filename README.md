@@ -1,4 +1,4 @@
-<!-- Public profile -->
+<!-- Public profile README -->
 <div align="center">
 
 # Don Reynolds
