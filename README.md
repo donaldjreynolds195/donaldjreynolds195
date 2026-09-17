@@ -2,7 +2,11 @@
 
 # Don Reynolds
 
-### Technology Transformation · Cloud Infrastructure · AI Decision Support · Program and Portfolio Management
+### TECHNOLOGY PROGRAM & STRATEGY | CLOUD, FINOPS & GOVERNANCE
+
+**Program & Portfolio Management · Cloud & Infrastructure · Technology Finance · AI & Risk Analytics**
+
+*Bridging enterprise strategy, cloud infrastructure, technology economics, AI governance, and data-driven decision-making.*
 
 **Analyze the Data. Remove the Friction. Deliver the Value.**
 
@@ -15,29 +19,47 @@
 
 ---
 
-## About Me
+## Professional Background
 
-I build systems that make complex business and technology decisions easier to inspect, explain, and act on.
+Technology program, strategy, and operations leader delivering cross-functional transformation across financial services, federal government, military operations, healthcare research, and technology. I work at the intersection of program and portfolio management, cloud infrastructure, technology finance, governance and risk, and data analytics to translate business priorities into executable solutions.
 
-My background spans military operations, financial services, federal program management, workforce analytics, cloud infrastructure, governance, risk, and AI enabled decision support. I combine technical execution with program leadership, financial discipline, and evidence based decision making.
+My background combines enterprise leadership with hands-on technical development in cloud administration, infrastructure, automation, analytics, and AI-enabled decision support. Current technical development includes Microsoft Software & Systems Academy cloud administration, AWS training, FinOps, AI governance, and data science.
+
+### Selected Impact
 
 <table>
 <tr>
-<td align="center"><strong>200+</strong><br/>People Led</td>
-<td align="center"><strong>$32M</strong><br/>Strategic Portfolio</td>
-<td align="center"><strong>36</strong><br/>Portfolio Projects</td>
-<td align="center"><strong>~$1B</strong><br/>Federal Grant Portfolio Supported</td>
-<td align="center"><strong>112K</strong><br/>Hours Reduced</td>
+<td align="center"><strong>$3B</strong><br/>Transformation Completed<br/>2 Months Early</td>
+<td align="center"><strong>112K</strong><br/>Work Hours<br/>Eliminated Annually</td>
+<td align="center"><strong>92%</strong><br/>Workforce-Risk<br/>Forecast Accuracy</td>
+<td align="center"><strong>2K</strong><br/>User Digital<br/>Solution</td>
+<td align="center"><strong>~$1B</strong><br/>Federal Grant<br/>Portfolio Supported</td>
 </tr>
 </table>
 
-### What I bring
+### Recognition
 
-- **Technology transformation:** Turn complex objectives into executable roadmaps, governance, metrics, and delivery plans.
-- **Cloud and infrastructure:** Build hands on capability across Azure, Windows Server, PowerShell, Terraform, GitHub, identity, and systems operations.
-- **AI and decision support:** Design evidence aware systems that separate facts, unknowns, scenarios, recommendations, and human decisions.
-- **Data and analytics:** Apply Python, SQL, Power BI, statistical modeling, and structured experimentation to make decisions more transparent.
-- **Program and portfolio leadership:** Connect strategy, cost, risk, stakeholders, operations, and measurable outcomes.
+**Air Force Program Manager of the Year** · **Presidential Management Fellow** · **Training Command Top 12 Airman** · **Air Force Best Innovation** · **2 National Institute on Aging Performance Awards** · **7x Air Force Distinguished Graduate**
+
+---
+
+## Core Qualifications
+
+### Program & Portfolio
+
+`Program Management` · `Strategic Initiatives` · `Portfolio Management` · `End-to-End Planning & Execution` · `Prioritization` · `Stakeholder Management` · `Risk, Issue & Dependency Management` · `Executive Reporting`
+
+### Cloud & Infrastructure
+
+`Azure` · `AWS` · `Cloud Computing` · `Cloud Operations` · `Cloud Governance` · `Infrastructure` · `Windows Server` · `Active Directory` · `Entra ID` · `PowerShell` · `Networking` · `Virtualization`
+
+### FinOps, Finance & Analytics
+
+`FinOps` · `Cloud Cost Management` · `Cost Optimization` · `Cost Transparency` · `Financial Analysis` · `Budgeting` · `Forecasting` · `Resource Allocation` · `Business Cases` · `Cost-Benefit Analysis` · `Power BI` · `Tableau` · `SQL` · `Python`
+
+### Governance, Risk & Strategy
+
+`Technology Risk` · `Governance` · `Controls` · `Compliance` · `Process Improvement` · `Change Management` · `Digital Transformation` · `Requirements Analysis` · `Data-Driven Decision-Making` · `Business Value`
 
 ---
 
@@ -64,44 +86,57 @@ My background spans military operations, financial services, federal program man
 
 ## Featured Portfolio
 
-> **Private by design:** Project titles and high level descriptions are public. Source repositories remain private. Demonstrations use synthetic or controlled data unless otherwise stated. Selective repository access can be provided for appropriate technical review.
+> **Private by design:** Project titles and high-level descriptions are public. Source repositories remain private. Demonstrations use synthetic or controlled data unless otherwise stated. Selective repository access can be provided for appropriate technical review.
 
-### AI, Decision Intelligence and Career Technology
+### AI, Decision Intelligence & Career Technology
 
-| Project | Portfolio Signal | Access |
+| Project | Strategic Focus | Access |
 |---|---|---|
-| **Project Mutual Fit / Mutual Career Fit Platform** | Two sided employment decision support with evidence traceability, Employer Fit, Candidate Job Fit, Company Fit, Mutual Fit, transferable skill normalization, resume intelligence, and human review | 🔒 Private |
-| **PMF Quantum Decision Lab** | Independent scenario and optimization sandbox with 256 combination explorers, editable assumptions, classical optimization, and simulated quantum workflows | 🔒 Private |
-| **NEXUS Decision Twin** | Hybrid cloud decision product using seeded Monte Carlo analysis, FinOps, TBM, service constraints, and risk adjusted decision logic | 🔒 Private |
-| **Opportunity Nexus** | Local career intelligence demo combining resume evidence, employer discovery, public web job search, AI assisted ranking, and Excel export | 🔒 Private |
-| **SignalRoom Demo** | Recruiter and hiring manager workspace using an AI agent for evidence based shortlisting with visible human checkpoints | 🔒 Private |
-| **Relay Hiring RAG Demo** | Hiring focused retrieval augmented generation demonstration under active portfolio review | 🔒 Private |
+| **Project Mutual Fit / Mutual Career Fit Platform** | Cloud, AI, FinOps, governance, career intelligence, evidence traceability, reciprocal fit, transferable skill normalization, resume intelligence, and human review | 🔒 Private |
+| **PMF Quantum Decision Lab** | Scenario and optimization sandbox with 256-combination explorers, editable assumptions, classical optimization, and simulated quantum workflows | 🔒 Private |
+| **NEXUS Decision Twin** | Hybrid-cloud decision product using seeded Monte Carlo analysis, FinOps, TBM, service constraints, and risk-adjusted decision logic | 🔒 Private |
+| **Opportunity Nexus** | Career intelligence demo combining resume evidence, employer discovery, public-web job search, AI-assisted ranking, and Excel export | 🔒 Private |
+| **SignalRoom Demo** | Recruiter and hiring-manager workspace using an AI agent for evidence-based shortlisting with visible human checkpoints | 🔒 Private |
+| **Relay Hiring RAG Demo** | Hiring-focused retrieval augmented generation demonstration under active portfolio review | 🔒 Private |
 
-### Cloud, Infrastructure, Platform and Automation
+### Cloud, Infrastructure, Platform & Automation
 
-| Project | Portfolio Signal | Access |
+| Project | Strategic Focus | Access |
 |---|---|---|
 | **Terraform Environment Factory** | Secure and tested AWS golden path using Terraform modules, environment separation, ECS Fargate, state controls, testing, and operational runbooks | 🔒 Private |
-| **KUBE GUARD** | Policy driven Kubernetes reliability with GitOps patterns, Kyverno controls, SLOs, security gates, observability, and FinOps evidence | 🔒 Private |
-| **FABRIC PULSE** | Governed Microsoft Fabric style lakehouse product using synthetic CRM, ERP, and operations data with quality gates, reconciliation, lineage, and decision ready KPIs | 🔒 Private |
-| **PULSE PowerShell Usage and Lifecycle Signal Engine** | Synthetic PowerShell telemetry translated into a governed action queue for automation, standardization, security, monitoring, and retirement decisions | 🔒 Private |
+| **KUBE GUARD** | Policy-driven Kubernetes reliability with GitOps patterns, Kyverno controls, SLOs, security gates, observability, and FinOps evidence | 🔒 Private |
+| **FABRIC PULSE** | Governed Microsoft Fabric-style lakehouse product with quality gates, reconciliation, lineage, and decision-ready KPIs | 🔒 Private |
+| **PULSE PowerShell Usage and Lifecycle Signal Engine** | PowerShell telemetry translated into a governed action queue for automation, standardization, security, monitoring, and retirement decisions | 🔒 Private |
 
-### Strategy, Portfolio and Workforce Intelligence
+### Strategy, Portfolio & Workforce Intelligence
 
-| Project | Portfolio Signal | Access |
+| Project | Strategic Focus | Access |
 |---|---|---|
 | **Project Atlas** | Workforce staffing optimization | 🔒 Private |
-| **ATLAS TBM ValueFlow** | Technology Business Management case tracing synthetic technology spend from billing controls through cost pools, towers, services, capabilities, business units, and unit economics | 🔒 Private |
-| **ORBIT Program Control Tower** | Synthetic modernization program case connecting scope, schedule, cost, risk, capacity, adoption, service outcomes, benefits, and governance | 🔒 Private |
+| **ATLAS TBM ValueFlow** | Technology Business Management case tracing technology spend through cost pools, towers, services, capabilities, business units, and unit economics | 🔒 Private |
+| **ORBIT Program Control Tower** | Modernization program case connecting scope, schedule, cost, risk, capacity, adoption, service outcomes, benefits, and governance | 🔒 Private |
 | **COMPASS Technology Strategy Lab** | Executive technology strategy case comparing build, buy, partner, and hybrid paths using TCO, NPV, payback, scenarios, sensitivity, governance, and reversal triggers | 🔒 Private |
 
 ---
 
 ## Project Mutual Fit
 
-**Project Mutual Fit is the centerpiece of my current portfolio.**
+### Cloud, AI, FinOps, Governance & Career Intelligence Platform
 
-It is designed as a two sided career decision support platform that evaluates the same opportunity from both perspectives:
+*Making the Invisible Visible: Career Intelligence That Reveals What the Job Posting Does Not Explicitly State*
+
+**Independent Portfolio Project · 2026**
+
+Project Mutual Fit is the centerpiece of my current portfolio. It is designed as a multi-layer decision-support platform serving two personas, candidates and recruiters, while keeping evidence, unknowns, governance, and human review visible throughout the workflow.
+
+### Architecture & Product Design
+
+- Architected a 14-layer cloud and AI decision platform integrating document parsing, personalized career evidence normalization, military-to-civilian terminology translation, deterministic matching, resume parsing compatibility tests, market intelligence, application viability, governance, and separate candidate and recruiter experiences.
+- Designed end-to-end cloud and AI architecture across candidate and recruiter workflows, including deterministic matching, evidence provenance, consent and audit controls, staged intelligence services, and modular implementation guides to preserve traceability and reduce compounding technical and governance risk.
+- Designed a cross-cutting **FinOps & Technology Value Control Plane** spanning the PMF architecture, combining Infrastructure as Code patterns, workload-health telemetry, FinOps as a Service concepts, and showback and chargeback-ready cost allocation while keeping platform economics separate from candidate-matching logic.
+- Extended the architecture to a multi-cloud cost model using **Azure Cost Management** and **AWS Cost and Usage Reports**, with **FOCUS-normalized** cost data to support forecasting, allocation, cost transparency, and unit-economics analysis.
+
+### Decision Model
 
 ```text
 Candidate Evidence
@@ -126,77 +161,9 @@ Company Context
              └── Human Review
 ```
 
-The design emphasizes:
+The design emphasizes evidence-linked recommendations, explicit handling of unknown information, candidate-controlled corrections, transferable skill translation without inventing experience, separate fit dimensions, resume claim validation, scenario analysis, controlled learning, and human review before consequential decisions.
 
-- Evidence linked recommendations
-- Explicit handling of unknown information
-- Candidate controlled corrections
-- Transferable skill translation without inventing experience
-- Separate fit dimensions instead of one opaque score
-- Resume claim validation
-- Scenario analysis that remains distinct from factual records
-- Human review before consequential decisions
-- Controlled learning and versioned evaluation
-- Private by default development practices
-
-The goal is not to automate hiring decisions. The goal is to make career decisions more understandable, evidence aware, and useful to both sides.
-
----
-
-## Current Development Themes
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Cloud and Infrastructure
-- Azure administration
-- Windows Server
-- Identity and access
-- PowerShell automation
-- Terraform
-- Infrastructure resilience
-- Cloud governance
-
-</td>
-<td width="50%" valign="top">
-
-### AI and Data
-- AI governance
-- AI risk and assurance
-- Retrieval augmented generation
-- Evidence aware AI
-- Statistical modeling
-- Monte Carlo analysis
-- Microsoft Fabric and Power BI
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Decision Intelligence
-- Explainable recommendations
-- Scenario analysis
-- Risk informed planning
-- Human in the loop workflows
-- Transparent assumptions
-- Outcome measurement
-
-</td>
-<td width="50%" valign="top">
-
-### Business and Program Leadership
-- Technology transformation
-- Program and portfolio management
-- FinOps and TBM
-- Change management
-- Governance and controls
-- Executive decision support
-
-</td>
-</tr>
-</table>
+The goal is not to automate hiring decisions. The goal is to make career decisions more understandable, evidence-aware, and useful to both sides.
 
 ---
 
@@ -205,15 +172,15 @@ The goal is not to automate hiring decisions. The goal is to make career decisio
 **Education**
 
 - MBA, University of Virginia Darden School of Business
-- B.S. Aeronautics, Embry Riddle Aeronautical University
+- B.S. Aeronautics, Embry-Riddle Aeronautical University
 
 **Selected Certifications**
 
 `PMP` · `Certified ScrumMaster` · `SAFe 6.0` · `Prosci Change Management` · `Six Sigma Green Belt` · `RIMS CRMP`
 
-**Current Development Focus**
+**Current Technical Development**
 
-Microsoft Software & Systems Academy, Central Server and Cloud Administration · Cloud infrastructure · AI governance and assurance · FinOps · Data science
+Microsoft Software & Systems Academy, Central Server and Cloud Administration · Cloud Infrastructure · FinOps · AI Governance & Assurance · Data Science
 
 ---
 
