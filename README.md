@@ -17,6 +17,7 @@
 
 <br/><br/>
 <sub><strong>Project Mutual Fit™ (PMF ™)</strong><br/>Copyright © 2026 Don Reynolds. All rights reserved.</sub>
+<!-- PMF copyright notice -->
 
 </div>
 
