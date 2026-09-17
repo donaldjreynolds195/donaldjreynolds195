@@ -40,7 +40,7 @@
 
 ---
 
-## Project Mutual Fit (PMF)
+## Project Mutual Fit™ (PMF™)
 
 ### Cloud, AI, FinOps, Governance & Career Intelligence Platform
 
@@ -48,19 +48,19 @@
 
 **Independent Portfolio Project · 2026**
 
-Project Mutual Fit (PMF) is a career decision-support platform designed to help candidates and recruiters understand not only whether experience appears to match an opportunity, but why it may match, what may be getting lost in translation, and where more evidence is needed.
+Project Mutual Fit™ (PMF™) is a career decision-support platform designed to help candidates and recruiters understand not only whether experience appears to match an opportunity, but why it may match, what may be getting lost in translation, and where more evidence is needed.
 
-### Project Mutual Fit (PMF) Military & Technical Experience Intelligence
+### PMF™ Military & Technical Experience Intelligence
 
 > **The objective is not word replacement. It is evidence translation across professional languages.**
 
-PMF is being designed to interpret experience in both directions. Military terminology can hide capabilities that employers describe in civilian or technical language, while civilian and IT job descriptions may describe work a veteran has already performed using completely different terms.
+PMF™ is being designed to interpret experience in both directions. Military terminology can hide capabilities that employers describe in civilian or technical language, while civilian and IT job descriptions may describe work a veteran has already performed using completely different terms.
 
 Traditional Military Occupational Specialty (MOS) and Air Force Specialty Code (AFSC) crosswalks can be useful starting points, but a generic military occupation is not the complete record of what an individual actually did. Veterans may perform additional duties, lead people, manage programs, support different systems, or take on responsibilities that extend well beyond the occupational description.
 
-PMF is intended to surface those potential relationships without treating a keyword match as proof or automatically converting a military title into a civilian title.
+PMF™ is intended to surface those potential relationships without treating a keyword match as proof or automatically converting a military title into a civilian title.
 
-### Project Mutual Fit (PMF) Public Decision View
+### PMF™ Public Decision View
 
 ```text
 Candidate Evidence          Opportunity Language
@@ -75,7 +75,7 @@ Candidate Evidence          Opportunity Language
               Human Review
 ```
 
-This public view is intentionally high level. It shows the purpose of PMF without exposing the detailed translation, evidence, matching, scoring, or implementation methods.
+This public view is intentionally high level. It shows the purpose of PMF™ without exposing the detailed translation, evidence, matching, scoring, or implementation methods.
 
 ### Why It Matters
 
@@ -100,8 +100,8 @@ The detailed methods, data sources, scoring logic, and implementation remain pri
 
 | Project | Strategic Focus | Access |
 |---|---|---|
-| **Project Mutual Fit (PMF) / Mutual Career Fit Platform** | Cloud, AI, FinOps, governance, career intelligence, evidence traceability, reciprocal fit, cross-domain experience translation, resume intelligence, and human review | 🔒 Private |
-| **PMF Quantum Decision Lab** | Scenario and optimization sandbox with 256-combination explorers, editable assumptions, classical optimization, and simulated quantum workflows | 🔒 Private |
+| **Project Mutual Fit™ (PMF™) / Mutual Career Fit Platform** | Cloud, AI, FinOps, governance, career intelligence, evidence traceability, reciprocal fit, cross-domain experience translation, resume intelligence, and human review | 🔒 Private |
+| **PMF™ Quantum Decision Lab** | Scenario and optimization sandbox with 256-combination explorers, editable assumptions, classical optimization, and simulated quantum workflows | 🔒 Private |
 | **NEXUS Decision Twin** | Hybrid-cloud decision product using seeded Monte Carlo analysis, FinOps, TBM, service constraints, and risk-adjusted decision logic | 🔒 Private |
 | **Opportunity Nexus** | Career intelligence demo combining resume evidence, employer discovery, public-web job search, AI-assisted ranking, and Excel export | 🔒 Private |
 | **SignalRoom Demo** | Recruiter and hiring-manager workspace using an AI agent for evidence-based shortlisting with visible human checkpoints | 🔒 Private |
@@ -175,3 +175,16 @@ I prefer systems that can explain what they know, what they do not know, what ch
 Private source repositories · Synthetic demonstrations · Selective access for technical review
 
 </div>
+
+---
+
+## Copyright & Trademark Notice
+
+**Project Mutual Fit™ (PMF™)**  
+Copyright © 2026 Don Reynolds. All rights reserved.
+
+Project Mutual Fit™ and PMF™ are independently developed project names and are claimed as unregistered trademarks of Don Reynolds. No federal trademark registration is claimed, and the registered trademark symbol ® is not used.
+
+The Project Mutual Fit™ name, PMF™ name, public-facing materials, documentation, diagrams, software, and original written content are proprietary unless otherwise stated. Public descriptions are provided for portfolio and evaluation purposes only. No license is granted to reproduce, redistribute, commercialize, or create derivative works from copyrighted PMF™ materials except with written permission.
+
+Certain underlying methods, workflows, scoring logic, data structures, prompts, models, and implementation details are intentionally withheld from public disclosure.
