@@ -15,6 +15,9 @@
 <img src="https://img.shields.io/badge/PMP-Certified-005A9C?style=for-the-badge" alt="PMP Certified" />
 <img src="https://img.shields.io/badge/MSSA-Cloud%20%26%20Server%20Administration-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Software and Systems Academy" />
 
+<br/><br/>
+<sub><strong>Project Mutual Fit™ (PMF ™)</strong><br/>Copyright © 2026 Don Reynolds. All rights reserved.</sub>
+
 </div>
 
 ---
