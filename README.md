@@ -1,3 +1,4 @@
+<!-- Public profile -->
 <div align="center">
 
 # Don Reynolds
