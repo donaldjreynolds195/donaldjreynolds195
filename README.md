@@ -19,50 +19,6 @@
 
 ---
 
-## Professional Background
-
-Technology program, strategy, and operations leader delivering cross-functional transformation across financial services, federal government, military operations, healthcare research, and technology. I work at the intersection of program and portfolio management, cloud infrastructure, technology finance, governance and risk, and data analytics to translate business priorities into executable solutions.
-
-My background combines enterprise leadership with hands-on technical development in cloud administration, infrastructure, automation, analytics, and AI-enabled decision support. Current technical development includes Microsoft Software & Systems Academy cloud administration, AWS training, FinOps, AI governance, and data science.
-
-### Selected Impact
-
-<table>
-<tr>
-<td align="center"><strong>$3B</strong><br/>Transformation Completed<br/>2 Months Early</td>
-<td align="center"><strong>112K</strong><br/>Work Hours<br/>Eliminated Annually</td>
-<td align="center"><strong>92%</strong><br/>Workforce-Risk<br/>Forecast Accuracy</td>
-<td align="center"><strong>2K</strong><br/>User Digital<br/>Solution</td>
-<td align="center"><strong>~$1B</strong><br/>Federal Grant<br/>Portfolio Supported</td>
-</tr>
-</table>
-
-### Recognition
-
-**Air Force Program Manager of the Year** · **Presidential Management Fellow** · **Training Command Top 12 Airman** · **Air Force Best Innovation** · **2 National Institute on Aging Performance Awards** · **7x Air Force Distinguished Graduate**
-
----
-
-## Core Qualifications
-
-### Program & Portfolio
-
-`Program Management` · `Strategic Initiatives` · `Portfolio Management` · `End-to-End Planning & Execution` · `Prioritization` · `Stakeholder Management` · `Risk, Issue & Dependency Management` · `Executive Reporting`
-
-### Cloud & Infrastructure
-
-`Azure` · `AWS` · `Cloud Computing` · `Cloud Operations` · `Cloud Governance` · `Infrastructure` · `Windows Server` · `Active Directory` · `Entra ID` · `PowerShell` · `Networking` · `Virtualization`
-
-### FinOps, Finance & Analytics
-
-`FinOps` · `Cloud Cost Management` · `Cost Optimization` · `Cost Transparency` · `Financial Analysis` · `Budgeting` · `Forecasting` · `Resource Allocation` · `Business Cases` · `Cost-Benefit Analysis` · `Power BI` · `Tableau` · `SQL` · `Python`
-
-### Governance, Risk & Strategy
-
-`Technology Risk` · `Governance` · `Controls` · `Compliance` · `Process Improvement` · `Change Management` · `Digital Transformation` · `Requirements Analysis` · `Data-Driven Decision-Making` · `Business Value`
-
----
-
 ## Technology Stack
 
 <div align="center">
@@ -81,41 +37,6 @@ My background combines enterprise leadership with hands-on technical development
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 
 </div>
-
----
-
-## Featured Portfolio
-
-> **Private by design:** Project titles and high-level descriptions are public. Source repositories remain private. Demonstrations use synthetic or controlled data unless otherwise stated. Selective repository access can be provided for appropriate technical review.
-
-### AI, Decision Intelligence & Career Technology
-
-| Project | Strategic Focus | Access |
-|---|---|---|
-| **Project Mutual Fit (PMF) / Mutual Career Fit Platform** | Cloud, AI, FinOps, governance, career intelligence, evidence traceability, reciprocal fit, cross-domain experience translation, resume intelligence, and human review | 🔒 Private |
-| **PMF Quantum Decision Lab** | Scenario and optimization sandbox with 256-combination explorers, editable assumptions, classical optimization, and simulated quantum workflows | 🔒 Private |
-| **NEXUS Decision Twin** | Hybrid-cloud decision product using seeded Monte Carlo analysis, FinOps, TBM, service constraints, and risk-adjusted decision logic | 🔒 Private |
-| **Opportunity Nexus** | Career intelligence demo combining resume evidence, employer discovery, public-web job search, AI-assisted ranking, and Excel export | 🔒 Private |
-| **SignalRoom Demo** | Recruiter and hiring-manager workspace using an AI agent for evidence-based shortlisting with visible human checkpoints | 🔒 Private |
-| **Relay Hiring RAG Demo** | Hiring-focused retrieval augmented generation demonstration under active portfolio review | 🔒 Private |
-
-### Cloud, Infrastructure, Platform & Automation
-
-| Project | Strategic Focus | Access |
-|---|---|---|
-| **Terraform Environment Factory** | Secure and tested AWS golden path using Terraform modules, environment separation, ECS Fargate, state controls, testing, and operational runbooks | 🔒 Private |
-| **KUBE GUARD** | Policy-driven Kubernetes reliability with GitOps patterns, Kyverno controls, SLOs, security gates, observability, and FinOps evidence | 🔒 Private |
-| **FABRIC PULSE** | Governed Microsoft Fabric-style lakehouse product with quality gates, reconciliation, lineage, and decision-ready KPIs | 🔒 Private |
-| **PULSE PowerShell Usage and Lifecycle Signal Engine** | PowerShell telemetry translated into a governed action queue for automation, standardization, security, monitoring, and retirement decisions | 🔒 Private |
-
-### Strategy, Portfolio & Workforce Intelligence
-
-| Project | Strategic Focus | Access |
-|---|---|---|
-| **Project Atlas** | Workforce staffing optimization | 🔒 Private |
-| **ATLAS TBM ValueFlow** | Technology Business Management case tracing technology spend through cost pools, towers, services, capabilities, business units, and unit economics | 🔒 Private |
-| **ORBIT Program Control Tower** | Modernization program case connecting scope, schedule, cost, risk, capacity, adoption, service outcomes, benefits, and governance | 🔒 Private |
-| **COMPASS Technology Strategy Lab** | Executive technology strategy case comparing build, buy, partner, and hybrid paths using TCO, NPV, payback, scenarios, sensitivity, governance, and reversal triggers | 🔒 Private |
 
 ---
 
@@ -330,6 +251,41 @@ The platform is being designed around a simple principle:
 The public portfolio communicates the capability and intended outcome. The underlying translation taxonomy, occupational mappings, evidence architecture, classification rules, source strategy, scoring methods, model prompts, confidence logic, and implementation design remain private.
 
 **Private source repository · Synthetic demonstration environment · Selective technical review available**
+
+---
+
+## Featured Portfolio
+
+> **Private by design:** Project titles and high-level descriptions are public. Source repositories remain private. Demonstrations use synthetic or controlled data unless otherwise stated. Selective repository access can be provided for appropriate technical review.
+
+### AI, Decision Intelligence & Career Technology
+
+| Project | Strategic Focus | Access |
+|---|---|---|
+| **Project Mutual Fit (PMF) / Mutual Career Fit Platform** | Cloud, AI, FinOps, governance, career intelligence, evidence traceability, reciprocal fit, cross-domain experience translation, resume intelligence, and human review | 🔒 Private |
+| **PMF Quantum Decision Lab** | Scenario and optimization sandbox with 256-combination explorers, editable assumptions, classical optimization, and simulated quantum workflows | 🔒 Private |
+| **NEXUS Decision Twin** | Hybrid-cloud decision product using seeded Monte Carlo analysis, FinOps, TBM, service constraints, and risk-adjusted decision logic | 🔒 Private |
+| **Opportunity Nexus** | Career intelligence demo combining resume evidence, employer discovery, public-web job search, AI-assisted ranking, and Excel export | 🔒 Private |
+| **SignalRoom Demo** | Recruiter and hiring-manager workspace using an AI agent for evidence-based shortlisting with visible human checkpoints | 🔒 Private |
+| **Relay Hiring RAG Demo** | Hiring-focused retrieval augmented generation demonstration under active portfolio review | 🔒 Private |
+
+### Cloud, Infrastructure, Platform & Automation
+
+| Project | Strategic Focus | Access |
+|---|---|---|
+| **Terraform Environment Factory** | Secure and tested AWS golden path using Terraform modules, environment separation, ECS Fargate, state controls, testing, and operational runbooks | 🔒 Private |
+| **KUBE GUARD** | Policy-driven Kubernetes reliability with GitOps patterns, Kyverno controls, SLOs, security gates, observability, and FinOps evidence | 🔒 Private |
+| **FABRIC PULSE** | Governed Microsoft Fabric-style lakehouse product with quality gates, reconciliation, lineage, and decision-ready KPIs | 🔒 Private |
+| **PULSE PowerShell Usage and Lifecycle Signal Engine** | PowerShell telemetry translated into a governed action queue for automation, standardization, security, monitoring, and retirement decisions | 🔒 Private |
+
+### Strategy, Portfolio & Workforce Intelligence
+
+| Project | Strategic Focus | Access |
+|---|---|---|
+| **Project Atlas** | Workforce staffing optimization | 🔒 Private |
+| **ATLAS TBM ValueFlow** | Technology Business Management case tracing technology spend through cost pools, towers, services, capabilities, business units, and unit economics | 🔒 Private |
+| **ORBIT Program Control Tower** | Modernization program case connecting scope, schedule, cost, risk, capacity, adoption, service outcomes, benefits, and governance | 🔒 Private |
+| **COMPASS Technology Strategy Lab** | Executive technology strategy case comparing build, buy, partner, and hybrid paths using TCO, NPV, payback, scenarios, sensitivity, governance, and reversal triggers | 🔒 Private |
 
 ---
 
