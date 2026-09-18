@@ -137,7 +137,7 @@ The detailed methods, data sources, scoring logic, and implementation remain pri
 
 **Selected Certifications**
 
-`PMP` · `Certified ScrumMaster` · `SAFe 6.0` · `Prosci Change Management` · `Six Sigma Green Belt` · `RIMS CRMP`
+`PMP` · `Certified ScrumMaster` · `SAFe 6.0` · `Prosci Change Management` · `Lean Six Sigma Black Belt` · `RIMS CRMP`
 
 **Current Technical Development**
 
