@@ -141,7 +141,7 @@ The detailed methods, data sources, scoring logic, and implementation remain pri
 
 **Current Technical Development**
 
-Microsoft Software & Systems Academy, Central Server and Cloud Administration · Cloud Infrastructure · FinOps · AI Governance & Assurance · Data Science
+Microsoft Software & Systems Academy (MSSA), Server and Cloud Administration · Cloud Infrastructure · FinOps · AI Governance & Assurance · Data Science · PowerShell
 
 ---
 
